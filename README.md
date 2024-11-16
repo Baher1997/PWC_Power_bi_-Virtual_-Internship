@@ -4,4 +4,17 @@
 
 ## :clipboard: Introduction 
 
-This repository displays the process and outcomes of the tasks completed during the [PwC Switzerland PowerBI Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI?ref=W5vwWAjutTpHbEraC) developed by Forage. The virtual internship is created to simulate work in the Digital Accelerator team at PwC Switzerland and leverages Power BI.
+This repository showcases the processes and results of tasks completed during the [PwC Switzerland PowerBI Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI?ref=W5vwWAjutTpHbEraC) hosted by Forage. This virtual internship simulates working with the Digital Accelerator team at PwC Switzerland, utilizing Power BI.
+
+All of these .pbix files and insights were my submissions for this program, except for the data files which were assigned by PwC Switzerland
+
+![image](https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/assets/100661121/37a0a7af-8116-429e-9a92-34a126f4d6a4)
+
+<br>
+
+## :pushpin: Scenario
+
+All of these `.pbix` files and insights represent my submissions for this program, with the data files provided by PwC Switzerland. At PwC, we collaborate with global organizations to upskill our 276,000 employees, ensuring they are equipped to learn, work, and thrive in the digital world. Employees have the opportunity to become "Digital Accelerators," rapidly advancing their expertise in areas like data, automation, AI, and digital storytelling. This involves mastering self-service tools, coding languages, and applying these skills throughout the business. Under the guidance of your manager, Giulia, you'll enhance your Power BI skills, transforming into a data expert and Digital Accelerator, ready to assist clients with impactful data visualization.
+
+
+This virtual experience program consists of 3 tasks:
