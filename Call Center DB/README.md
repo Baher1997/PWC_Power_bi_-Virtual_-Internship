@@ -6,7 +6,7 @@
 
 
 ## Table of contents
-- [Problem Statement]()
+- [Problem Statement](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Call%20Center%20DB#problem-statement)
 - [Data Preparation]()
 - [Data Modeling]()
 - [Data Visualization]()
@@ -28,3 +28,22 @@
     - Calls by time
     - Average speed of answer
     - Agents performance quadrant -> average handle time(talk duration) vs calls answered
+ 
+ - # Data Sourcing
+
+The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Call Center Dataset]
+
+- # Data Preparation
+
+The dataset was loaded into Microsoft Power BI Desktop for transformation in Power Query and modeling.
+
+### Metadata
+
+The tabulation below shows the metadata of `Call Center` dataset:
+
+| File name |01 Call-Center-Dataset  |
+| --- | --- |
+| Format | .xlsx |
+| Size | 249KB |
+| Fields | 10 |
+| Entities | 5000 |
