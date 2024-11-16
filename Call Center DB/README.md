@@ -8,10 +8,10 @@
 ## Table of contents
 - [Problem Statement](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Call%20Center%20DB#problem-statement)
 - [Data Preparation](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Call%20Center%20DB#data-preparation)
-- [Data Modeling]()
-- [Data Visualization]()
-- [Analysis and Insights]()
-- [Shareable Link]()
+- [Data Modeling](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/README.md#data-modeling)
+- [Data Visualization](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/README.md#data-visualization)
+- [Analysis and Insights](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/README.md#analysis-and-insights)
+- [Shareable Link](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/README.md#shareable-link)
 
 - # Problem Statement
 
@@ -69,6 +69,8 @@ After the dataset was cleaned and transformed, it was ready to be modeled, but t
 
 # Data Visualization
 ![dashboard github](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/Call%20Center%20DB.PNG)
+![dashboard github](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/Call%20Center%20DB%20Detailed.PNG)
+![dashboard github](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Call%20Center%20DB/Phone%20Call%20Center%20DB.png)
 
 Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint, the dashboard includes:
 
@@ -118,7 +120,7 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 - The correlation between call answered and call resolved is strongly positive which resulted in a increase in the customer satisfaction rate
 
 # Shareable Link
-You can interact and have fun with the dashboard here:
+You can interact with the dashboard here:
 
 [Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiODIzZGE4YTEtMzg1Zi00NTU5LTgyZGYtZTJjZGVhZjQ0NDM0IiwidCI6Ijg1OTQ4YjFkLTZhOGQtNGIxNy1hMjVhLTliNjA0YmY2NDI2OCIsImMiOjh9)
 
