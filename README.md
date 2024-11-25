@@ -14,7 +14,7 @@ All of these .pbix files and insights were my submissions for this program, exce
 
 ## :pushpin: Scenario
 
-All of these `.pbix` files and insights represent my submissions for this program, with the data files provided by PwC Switzerland. At PwC, we collaborate with global organizations to upskill our 276,000 employees, ensuring they are equipped to learn, work, and thrive in the digital world. Employees have the opportunity to become "Digital Accelerators," rapidly advancing their expertise in areas like data, automation, AI, and digital storytelling. This involves mastering self-service tools, coding languages, and applying these skills throughout the business. Under the guidance of your manager, Giulia, you'll enhance your Power BI skills, transforming into a data expert and Digital Accelerator, ready to assist clients with impactful data visualization.
+All of these files and insights represent my submissions for this program, with the data files provided by PwC Switzerland. At PwC, we collaborate with global organizations to upskill our 276,000 employees, ensuring they are equipped to learn, work, and thrive in the digital world. Employees have the opportunity to become "Digital Accelerators," rapidly advancing their expertise in areas like data, automation, AI, and digital storytelling. This involves mastering self-service tools, coding languages, and applying these skills throughout the business. Under the guidance of your manager, Giulia, you'll enhance your Power BI skills, transforming into a data expert and Digital Accelerator, ready to assist clients with impactful data visualization.
 
 
 This virtual experience program consists of 3 tasks:
