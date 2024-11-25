@@ -1,13 +1,12 @@
 # Customer Retention | PwC Switzerland Power BI Virtual Internship Experience
 ![background](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Home.png)
 ## Table of contents
-- [Problem Statement]()
-- [Data Sourcing]()
-- [Data Preparation]()
-- [Data Modeling]()
-- [Data Visualization]()
-- [Analysis and Insights]()
-- [Shareable Link]()
+- [Problem Statement](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#problem-statement)
+- [Data Sourcing](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#data-sourcing)
+- [Data Preparation](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#data-preparation)
+- [Data Visualization](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#data-visualization)
+- [Analysis and Insights](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#analysis-and-insights)
+- [Shareable Link](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/README.md#shareable-link)
 
 # Problem Statement
 
@@ -21,7 +20,7 @@
 
 # Data Sourcing
 
-The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Churn Dataset](https://github.com/calmk/PWC-Virtual-Case-Experience/blob/main/Task%203%3A%20Customer%20Retention/02%20Churn-Dataset.xlsx)
+The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Churn Dataset](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/02%20Churn-Dataset.xlsx)
 
 # Data Preparation
 
@@ -86,30 +85,18 @@ A new table named `Churn unpivot` was created by duplicating the `Churn datas
     - `Table.ReplaceValue(#"Renamed Columns","No internet service","No",Replacer.ReplaceText,{"OnlineSecurity", "OnlineBackup", "DeviceProtection", "TechSupport", "StreamingTV", "StreamingMovies"})`
     - `Table.Unpivot(#"Reordered Columns", {"PhoneService", "MultipleLines", "Internet", "OnlineSecurity", "OnlineBackup", "DeviceProtection", "TechSupport", "StreamingTV", "StreamingMovies"}, "Attribute", "Value.1")`
 
-Besides that, I run Python Scripting in PowerQuery to conduct predictive analysis throughout three more tables named `Model Evaluation`, `Weight`, `Probability`. You can take a glance at it in my [jupyter notebook](https://github.com/calmk/PWC-Virtual-Case-Experience/blob/main/Task%203%3A%20Customer%20Retention/Churn%20Prediction.ipynb)
-
-# Data Modeling
-
-After the dataset was cleaned and transformed, it was ready to be modeled.
-
-- A one-to-many (*:1) relationship was created between the `Churn dataset` and the `Churn unpivot`,  tables using the `customerId` column in each of the tables
-- A one-to-one (1:1) relationship was created between the `Churn dataset` and the `Probability`,  tables using the `customerId` column in each of the tables
-- `Measure` was created to store all DAX measures for ensuring the organization
-- The relationship formed in the data model is shown below:
-![Untitled](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience/assets/100661121/1c3b42ce-ed5a-424d-a8ea-919bdf9f4904)
-
 
 # Data Visualization
-Data visualization for the datasets was done in Microsoft Power BI Desktop, the dashboard includes 3 main dashboards and 5 tooltip pages
+Data visualization for the datasets was done in Microsoft Power BI Desktop, the dashboard includes Home page and 2 main dashboards
 
-- **Customer Profile**
-![Cus profile example](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience/assets/100661121/48d1cc92-049d-4392-8e29-8f60b096fd60)
+- **Home**
+![Homee](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Home.png)
 
-- **EDA Churn Profile**
-![eda example](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience/assets/100661121/d3187db9-e9e5-405b-a2e6-412a452ead41)
+- **Churn Dashboard**
+![Churn Dashboard](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Churn%20Dashboard.png)
 
-- **Churn Predictive Model Comparison**
-![example pic](https://github.com/calmk/Customer-Retention-PWC-Virtual-Case-Experience/assets/100661121/395bf995-cf9b-457c-84c5-6fd17e844c03)
+- **Customer Dashboard**
+![example pic](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Customer%20Risk%20Dashboard.png)
 
 
 ## Dashboard type
@@ -200,6 +187,7 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 # Shareable Link
 You can interact and have fun with the dashboard here:
 
-[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMzkyNDM4N2UtYWU3Yy00ZjM0LTk4YWYtYzY1M2EwY2I4Y2Q2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectione13631e7a8cb93d38b57)  | [novyPro](https://www.novypro.com/project/customer-retention-|-pwc-switzerland-power-bi-virtual-case-experience)
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZTQ3YWI4ZTctNmNiYS00ODI3LTliYzgtMjQxY2M3OWJlNjkxIiwidCI6Ijg1OTQ4YjFkLTZhOGQtNGIxNy1hMjVhLTliNjA0YmY2NDI2OCIsImMiOjh9)
 
-### Huge thanks to you for joining this creative journey with me.  Hope you all are doing great! :pray::pray::pray::relaxed:
+### A big thank you for being part of this creative journey with me! 
+Hope you're all doing amazing!
