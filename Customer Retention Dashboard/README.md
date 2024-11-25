@@ -90,12 +90,15 @@ A new table named `Churn unpivot` was created by duplicating the `Churn datas
 Data visualization for the datasets was done in Microsoft Power BI Desktop, the dashboard includes Home page and 2 main dashboards
 
 - **Home**
+  
 ![Homee](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Home.png)
 
 - **Churn Dashboard**
+  
 ![Churn Dashboard](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Churn%20Dashboard.png)
 
 - **Customer Dashboard**
+  
 ![example pic](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Customer%20Retention%20Dashboard/Customer%20Risk%20Dashboard.png)
 
 
