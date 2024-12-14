@@ -28,3 +28,4 @@ This virtual experience program consists of 3 tasks:
 
 **Visualization**:
 - Microsoft PowerBI
+- DAX
