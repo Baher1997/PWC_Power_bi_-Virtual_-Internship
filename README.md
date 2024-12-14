@@ -19,7 +19,8 @@ All of these files and insights represent my submissions for this program, with 
 
 This virtual experience program consists of 3 tasks:
 - [**Task 1**](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Call%20Center%20DB): Create Call Centre Dashboard - visualizing customer and agent behavior.
-- [**Task 2**](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Customer%20Retention%20Dashboard): Create Customer Retention and predict churn customers - visualizing customer demographics and insights.. 
+- [**Task 2**](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Customer%20Retention%20Dashboard): Create Customer Retention and predict churn customers - visualizing customer demographics and insights..
+- [**Task 3**](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/tree/main/Diversity-Inclusion%20Dashboard): Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite
 
 <br>
 
