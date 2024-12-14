@@ -24,6 +24,12 @@ This virtual experience program consists of 3 tasks:
 
 <br>
 
+## :trophy: Certificate of completion
+
+![image](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Certificate%20image.png)
+
+<br>
+
 ## :gear: Technical Stack
 
 **Visualization**:
