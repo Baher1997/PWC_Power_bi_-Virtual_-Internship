@@ -21,7 +21,7 @@
     - Evaluating diversity in new hires.
     - Identifying areas of improvement for retention and leadership opportunities.
  
-  # Data Sourcing
+# Data Sourcing
 
 The dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Diversity & Inclusion](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Diversity-Inclusion%20Dashboard/03%20Diversity-Inclusion-Dataset.xlsx)
 
@@ -130,6 +130,8 @@ Target audience: **Human Resource Manager, Analyst**
 
 **Diversity & Inclusion Analysis for New Hires:**
 
+![detail](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Diversity-Inclusion%20Dashboard/Diversity-Inclusion%20Analysis%20for%20new%20hires.png)
+
 - Gender Distribution in New Hires
 - Age Group Distribution
 - Nationality Distribution
@@ -137,6 +139,8 @@ Target audience: **Human Resource Manager, Analyst**
 - Regional Hiring Distribution
   
 **Analysis in Promotion of Employees:**
+
+![detail](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Diversity-Inclusion%20Dashboard/Analysis%20in%20promotion%20of%20employees.png)
 
 - Promotion Rate by Gender
 - Turnover Rate by Gender
@@ -146,7 +150,53 @@ Target audience: **Human Resource Manager, Analyst**
 
 **Performance:**
 
+![detail](https://github.com/Baher1997/PWC_Power_bi_-Virtual_-Internship/blob/main/Diversity-Inclusion%20Dashboard/Preformance%20Dashboard.png)
+
 - Average Performance of gender, leavers
 - Performance Rate distribution
 - Average Performance Rate by Positions, Age, Region
 - Comparison performance between leaver and non-leaver by department
+
+# Insights and Recommendations
+
+The purpose of this dashboard is to serve as self-exploratory for managers, but I still note some highlighted points that I recognize that some root causes of their slow progress in improving gender balance at the executive management level might be below:
+
+**Insights:**
+
+1. Gender Representation in New Hires
+	•	52% of new hires are women, indicating progress in diversity.
+	•	HR is 100% female, while Operations leans heavily male.
+	•	Balanced hiring is seen in Strategy and Finance departments.
+
+2. Performance Ratings
+	•	Female churned employees had an average rating of 2.58 in FY20.
+	•	Male employees show slightly higher ratings in some job levels.
+
+3. Turnover and Promotions
+	•	Female turnover is 4%, with overall turnover at 9%.
+	•	Only 3% of women were promoted in FY20, compared to 4% overall.
+	•	Sales & Marketing and Operations show high female turnover.
+
+**Recommendations:**
+
+1. Enhance Leadership Opportunities for Women
+	•	Develop leadership programs and mentoring for women.
+	•	Set clear targets for promoting women to senior roles.
+	•	Provide equal access to growth opportunities across all job levels.
+
+2. Improve Retention of Female Employees
+	•	Offer flexible working arrangements and support programs.
+	•	Investigate reasons behind female churn in key departments.
+
+3. Foster Diversity Across All Levels
+	•	Balance gender hiring in HR and Operations departments.
+	•	Promote generational diversity by hiring younger and older employees.
+	•	Address regional retention challenges, especially in Germany.
+
+# Shareable Link
+
+You can interact and have fun with the dashboard here:
+
+[Microsoft PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDg0Y2QxMmMtZWNiZi00NjM4LTlkODQtMDYwMTc1MDI4OGU2IiwidCI6Ijg1OTQ4YjFkLTZhOGQtNGIxNy1hMjVhLTliNjA0YmY2NDI2OCIsImMiOjh9)
+
+### A heartfelt thank you for being a part of this creation journey with me
